@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @McFarland
-- 👀 I’m interested in Complier
+- 👀 I’m interested in Compiler
 - 🌱 I’m currently learning Static Code Analysis
 - 💞️ I’m looking to collaborate on nothing
 - 📫 mcfarland.glx@icloud.com
